@@ -1,0 +1,10 @@
+#pragma once
+
+// Control IDs
+#define IDC_LISTVIEW 102
+#define IDC_REFRESH_BTN 103
+#define IDC_KILL_PROCESS_BTN 104
+#define IDC_KILL_THREAD_BTN 105
+#define IDC_ABOUT_TAB 106
+#define IDB_WIN2000_LOGO 107
+
