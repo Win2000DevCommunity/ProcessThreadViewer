@@ -5,7 +5,7 @@
 
     📌 Inspect threads (TID, status, stack traces)
 
-    ⚠️ Kill processes/threads (requires admin rights)
+    ⚠️ Kill processes/threads
 
 2. Compilation Command (MinGW/g++)
 
